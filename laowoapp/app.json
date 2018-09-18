@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/functions/functions",
+    "pages/ours/ours"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "老挝接待APP",
+    "navigationBarTextStyle":"black"
+  }
+}
